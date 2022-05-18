@@ -1,0 +1,11 @@
+ABOUT:
+An adventurer must brave the dangers that lurk
+in a forest in order to get back home.
+CONTROLS:
+Follow the onscreen prompts to make choices.
+Make the right choice and your XP will increase.
+Make the wrong choice and your XP will decrease...
+...Or worse!
+
+
+

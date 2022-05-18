@@ -1,0 +1,9 @@
+OBJECTIVE: eat the square!!!!!!!!!!
+------------------------------------
+[ ARROW KEYS ] = circle controls
+[ W ] = up square
+[ S ] = down square
+[ D ] = right square
+[ A ] = left square
+[ SPACE ] = jump
+------------------------------------
